@@ -1,3 +1,5 @@
 "pizza 4 quesos" 
-"-masa" 
-"aqui la prepa" 
+"masa aqui los nuevos cambios" 
+
+
+"aqui la prepa y aqui los cambios" 
